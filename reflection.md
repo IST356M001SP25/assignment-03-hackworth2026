@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I felt that I have grown a stronger understand of streamlit, and the correlating code. I feel that with the assistance of copilot I now have a stronger understanding of developing logical arugments to handle the parsing of data. I would indeed say that this was a more effortful task to complete compared to others assigments.
